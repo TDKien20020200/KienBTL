@@ -1,4 +1,3 @@
-# KienBTL
 #GIỚI THIỆU
 * Game Memorize20020200: sắp xếp các hình ảnh được đảo chỗ lộn xộn thành một bức tranh hoàn chỉnh.
 * Game gồm 6 level và độ khó tăng dần: 2x3, 3x3, 4x6, 6x6, 6x9, 9x9.
